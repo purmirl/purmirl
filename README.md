@@ -1,5 +1,5 @@
 ### purmirl.petra github house
-petra is student of @_network programming_, working for @_network infra architect_.
+petra is student of @_network programming_, working for @_network infra architect_.   
 now studying about @_pcap/c, @jnetpcap/java, @scapy/python, @raw socket, @osi 7 layer, @dos/ddos/drdos_. 
 
 <!--
