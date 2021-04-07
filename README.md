@@ -1,5 +1,5 @@
 ### :earth_asia: purmirl.petra(조희권) github archive
-petra is student of @_network programming_, working for @_network infra architect_.   
+petra is interested in @_network programming_, working for @_network infra architect_.   
 now studying about @_pcap/c, @jnetpcap/java, @scapy/python, @raw socket, @osi 7 layer, @dos/ddos/drdos_. 
 
 <!--
@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 ### 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=purmirl&show_icons=true&theme=tokyonight&include_all_commits=true)
-
+-->
 
 <!--
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purmirl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
