@@ -1,5 +1,5 @@
 ### :earth_asia: purmirl.petra archive
-Interested in DDoS   
+Interested in Distributed Denial of Service(DDoS)   
 
 <!--
 **purmirl/purmirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
