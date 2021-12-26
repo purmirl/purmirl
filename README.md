@@ -1,5 +1,5 @@
 ### :earth_asia: purmirl.petra archive
-Interested in Distributed Denial of Service(DDoS)   
+Interested in Distributed Denial of Service(DDoS), Information Network Security   
 
 	◎ Konkuk University(South Korea) Computer Science & Engineering Bachelor  
 	
