@@ -7,7 +7,6 @@ Interested in Distributed Denial of Service(DDoS)
 	◎ 前 Korea Army Information Signal Corpsman
 	◎ 前 Korea Information Technology Research Institute BoB
 	◎ 前 Korea Institute of Industrial Technology Researcher
-	◎ 現 Hanwha Systems Co, Ltd
  
 <!--
 **purmirl/purmirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
