@@ -3,10 +3,11 @@ Interested in Distributed Denial of Service(DDoS)
 
 	◎ Konkuk University(South Korea) Computer Science & Engineering Bachelor  
 	
-	◎ Andong National University(South Korea) Science Gifted Program (2007 ~ 2009)   
-	◎ Korea Army Information Signal Corpsman (2014 ~ 2016)   
-	◎ Korea Information Technology Research Institute BoB (2017 ~ 2018)   
-	◎ Hanwha Systems Co, Ltd (2019 ~ )   
+	◎ 前 Andong National University(South Korea) Science Gifted Program  
+	◎ 前 Korea Army Information Signal Corpsman
+	◎ 前 Korea Information Technology Research Institute BoB
+	◎ 前 Korea Institute of Industrial Technology Researcher
+	◎ 現 Hanwha Systems Co, Ltd
  
 <!--
 **purmirl/purmirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
