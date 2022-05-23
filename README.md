@@ -1,12 +1,20 @@
 ### :earth_asia: purmirl.petra archive
 Interested in Distributed Denial of Service(DDoS), Information Network Security   
 
-	◎ Konkuk University(South Korea) Computer Science & Engineering Bachelor  
+	◎ Education
+	 
+	 . Konkuk University(South Korea) Computer Science & Engineering Bachelor  
 	
-	◎ Andong National University(South Korea) Science Gifted Program (2007 ~ 2009)  
-	◎ Korea Army Information Signal Corpsman (2014 ~ 2016)
-	◎ Korea Information Technology Research Institute BoB (2017 ~ 2018)
-	◎ Hanwha Systems Corp (2019 ~ )
+	
+	@ Career
+	 
+	 . Andong National University(South Korea) Science Gifted Program (2007 ~ 2009)  
+	 
+	 . Korea Army Information Signal Corpsman (2014 ~ 2016)
+	 
+	 . Korea Information Technology Research Institute BoB (2017 ~ 2018)
+	 
+	 . Hanwha Systems Corp (2019 ~ )
  
 <!--
 **purmirl/purmirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
