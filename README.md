@@ -3,7 +3,8 @@ Interested in Distributed Denial of Service(DDoS), Information Network Security
 
 	◎ Education
 	 
-	 . Konkuk University(South Korea) Computer Science & Engineering Bachelor  
+	 . Konkuk University(South Korea) / College of Business 
+	   .. Computer Science & Engineering B.s
 	
 	
 	@ Career
