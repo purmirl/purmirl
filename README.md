@@ -19,9 +19,9 @@ Interested in Distributed Denial of Service(DDoS), Information Network Security
 
    	@ Certifications
 
-         . Microsoft Certified : Azure Solutions Architect Expert
+	 . Microsoft Certified : Azure Solutions Architect Expert
 
-         . Microsoft Certified : Azure Administrator Associate
+	 . Microsoft Certified : Azure Administrator Associate
  
 <!--
 **purmirl/purmirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
