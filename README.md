@@ -16,7 +16,8 @@ Interested in Distributed Denial of Service(DDoS), Information Network Security
 	 . Korea Information Technology Research Institute BoB (2017 ~ 2018)
 	 
 	 . Hanwha Systems Corp (2019 ~ )
-
+	
+ 	
    	@ Certifications
 
 	 . Microsoft Certified : Azure Solutions Architect Expert
