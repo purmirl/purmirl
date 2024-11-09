@@ -1,5 +1,5 @@
 ### :earth_asia: purmirl.petra archive
-Interested in Distributed Denial of Service(DDoS), Information Network Security   
+Interested in Internet Infrastructure Architecture, Distributed Denial of Service(DDoS)
 
 	◎ Education
 	 
